@@ -9,6 +9,7 @@ Ultimo aggiornamento: 28 Maggio 2026
 La protezione della tua privacy è fondamentale per noi. Questa informativa spiega come l'applicazione "ColCavolo" gestisce le tue informazioni quando utilizzi il nostro servizio.
  
 1. Dati raccolti
+
 L'applicazione "ColCavolo" è progettata per operare con la massima riservatezza:
 Fotocamera: L'app richiede l'accesso alla fotocamera esclusivamente per la funzionalità di scansione dei codici a barre. Le immagini acquisite vengono elaborate istantaneamente dal dispositivo e non vengono mai salvate, archiviate o inviate a server esterni.
 Dati nutrizionali: I dati relativi alla cronologia delle tue scansioni e alle preferenze sono salvati esclusivamente in locale sul tuo dispositivo. Non raccogliamo, non trasmettiamo e non conserviamo alcun dato nutrizionale o personale su server remoti.
